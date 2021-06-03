@@ -6,7 +6,9 @@ I started programming at age 16 and have since lived both as a starry-eyed freel
 - Then switched to `Visual Basic` for work [and **hated** it]
 - Then switched to `C#` to keep sane [and **liked** it a lot]
 - Then learend a bit of `Swift` [which was **pretty cool** but **useless** in Windows]
-- Then tried my hand at client-side `VueJs` [and **liked** it, but I really **hate** `JS`]
+- Then spent some time with back-end `ASP.net core` [and **tolerated** it]
+- Then briefly tried making some `RESTful webAPI` [and **hated** it]
+- Then tried my hand at front-end `VueJs` [and **liked** it, but I really **hate** `JS`]
 - I also dabbled in `php` [which I didn't even finish learning 'cuz... **yuck!**]
 - Then tried some `Python` [but still fail to see the point of its popularity]
 - And just when I was about to try `Go`...
