@@ -1,4 +1,4 @@
-🖐 Heya, I'm @Hamido-san
+🖐 Heya, I'm Hamid
 
 I started programming at age 16 and have since lived both as a starry-eyed freelancer and a jaded corporate zombie, but I still can't get enough of it
 
