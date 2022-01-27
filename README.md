@@ -14,6 +14,6 @@ I started programming at age 16 and have since lived both as a starry-eyed freel
 - And just when I was about to try `Go`...
 - [Uncle Bob Martin insisted](https://www.youtube.com/watch?v=P2yr-3F6PQo) I look at `Clojure`, let's just call it **love-at-first-sight**, OK?
 
-I'm currently learning [Clojure](https://clojure.org/): It's the answer to all my prayers and I want to code with it as both job & hobby... please?
+I'm currently [learning Clojure](https://exercism.org/profiles/Hamido-san): It's the answer to all my prayers and I want to code with it as both job & hobby... please?
 
 ✉ You can reach me at [LinkedIn](https://www.linkedin.com/in/hamid-sadeghian)
