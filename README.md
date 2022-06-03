@@ -21,9 +21,7 @@ So now, on top of keeping up with front‑end dev (I mean
 <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="VueJS" />
 <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="NuxtJS" />
 <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" title="Vuetify" />
-<img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" />
-<img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" />
-<img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" />
+<img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" title="Svelte" />
 ...💫 there should be an upper limit to "required" skills)<br />
 I'm currently [learning Clojure](https://exercism.org/profiles/Hamido-san): It's the answer to all my prayers and I want to code with it as both job & hobby, please
 
