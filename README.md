@@ -1,6 +1,6 @@
 🖐 Heya, I'm Hamid
 
-I started programming at 16 and have since lived as a starry‑eyed freelancer, a jaded corporate zombie, and a happily exhausted one‑man‑army at a startup, but still can't get enough of it
+I started programming at 16 and have since lived as a starry‑eyed freelancer, a jaded corporate zombie, and a happily exhausted one‑man‑army at a startup, but still can't get enough
 
 - I've done a bunch of <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> `C++Builder` in college and **liked** it
 - Then switched to 💩 `Visual Basic` for work and **hated** it
