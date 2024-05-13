@@ -1,28 +1,23 @@
-🖐 Heya, I'm Hamid
+# Hey 🖐 I'm Hamid
 
-I started programming at 16 and have since lived as a starry‑eyed freelancer, a jaded corporate zombie, and a happily exhausted one‑man‑army at a startup, but still can't get enough
+I started programming at 16 and have since been a starry‑eyed freelancer, a jaded corporate zombie who everyone can rely on, and a happily exhausted one‑man‑army at a startup, but still can't get enough.
 
-- I've done a bunch of <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> `C++Builder` in college and **liked** it
-- Then switched to 💩 `Visual Basic` for work and **hated** it
-- Then switched to <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> `C#` to keep sane and **liked** it a lot
-- Then learend a bit of <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> `Swift` which was **pretty cool** if useless in Windows
-- Then spent some time with back‑end <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /> `ASP.net core` and **tolerated** it
-- Then briefly tried making some 💀 `RESTful webAPI` and **hated** it
-- Then tried my hand at front‑end <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> `VueJS` and **liked** it ( <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> `JS` and <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> `CSS` be damned)
-- I also dabbled in <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> `php` but didn't even finish learning it 'cuz **yuck!**
-- Then tried some <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> `Python` but still fail to see the point of its popularity
-- And just when I was about to try <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" /> `Go`
-- [Uncle Bob Martin insisted](https://www.youtube.com/watch?v=P2yr-3F6PQo) I take a look at <img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" /> `Clojure`... let's just call it **love at first sight**
+I've worked with languages & technologies that I **hated** with all my being, like
+- <sub>![💩](https://api.iconify.design/devicon:visualbasic.svg)</sub> `Visual Basic` for a whole 5 years!
+- <sub>![💀](https://api.iconify.design/vscode-icons:file-type-rest.svg)</sub> `RESTful webAPI`
+- vanilla <sub>![](https://api.iconify.design/devicon:javascript.svg)</sub> `JavaScript` & plain <sub>![](https://api.iconify.design/devicon:css3.svg)</sub> `CSS`
 
-So now, on top of keeping up with front‑end dev (I mean
-<img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
-<img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" />
-<img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" title="MaterialUI" />
-<img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="VueJS" />
-<img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="NuxtJS" />
-<img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" title="Vuetify" />
-<img width="17" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" title="Svelte" />
-...💫 there should be an upper limit to "required" skills)<br />
-I'm currently [learning Clojure](https://exercism.org/profiles/Hamido-san): It's the answer to all my prayers and I want to code with it as both job & hobby, please
+Ones that I didn't enjoy very much, like
+- back‑end <sub>![](https://api.iconify.design/vscode-icons:file-type-asp.svg)</sub> `ASP.net core`
+- some <sub>![](https://api.iconify.design/ic:baseline-wordpress.svg?color=%23888888)</sub> `WordPress` here and there
 
-✉ You can reach me at [LinkedIn](https://www.linkedin.com/in/hamid-sadeghian)
+And stuff that I liked a lot! like
+- a bunch of <sub>![](https://api.iconify.design/devicon:cplusplus.svg)</sub> `C++Builder` in college
+- <sub>![](https://api.iconify.design/devicon:csharp.svg)</sub> `C#` that kept me sane at work
+- front‑end <sub>![](https://api.iconify.design/devicon:vuejs.svg)</sub> `VueJS` & <sub>![](https://api.iconify.design/devicon:vuetify.svg)</sub> `Vuetify`
+
+Also dabbled in <sub>![](https://api.iconify.design/devicon:go-wordmark.svg)</sub> `Go` & <sub>![](https://api.iconify.design/vscode-icons:file-type-rust.svg)</sub> `Rust` for a little while, then one day [Uncle Bob Martin insisted](https://www.youtube.com/watch?v=P2yr-3F6PQo) to take a look at <sub>![](https://api.iconify.design/devicon:clojure.svg)</sub> `Clojure`… and I fell in love!
+
+Currently I'm [practicing Clojure](https://exercism.org/profiles/Hamido-san) and trying to learn <sub>![](https://api.iconify.design/devicon:dart.svg)</sub> `Dart` & <sub>![](https://api.iconify.design/devicon:flutter.svg)</sub> `Flutter` on the side
+
+### ✉ You can reach me at [LinkedIn](https://www.linkedin.com/in/hamid-sadeghian)
